@@ -1,0 +1,58 @@
+{
+  "name": "Haneesh Byreddy",
+  "phone": "079892 98443",
+  "summary": "Highly motivated and results-oriented final year Bachelor of Engineering student seeking an entry-level position to leverage strong analytical, problem-solving, and communication skills. Possess a solid foundation in DSA and a keen interest in applying theoretical knowledge to real-world challenges. Eager to contribute to a dynamic team and learn from experienced professionals.",
+  "personal_information": {
+    "address": "",
+    "nationality": "",
+    "driving_license": "",
+    "hobbies": ""
+  },
+  "languages": {
+    "Hindi": "★★★★☆",
+    "English": "★★★★★",
+    "Telugu": "★★★★★"
+  },
+  "skills": {
+    "Problem Solving": "★★★★★",
+    "DSA (data structure and algorithms)": "★★★★★",
+    "Python (Programming Language)": "★★★★★",
+    "JavaScript (Programming Language)": "★★★★★",
+    "Java (Programming Language)": "★★★★☆",
+    "C++ (Programming Language)": "★★★★☆",
+    "Cloud Computing": "★★★★☆",
+    "Linux": "★★★★☆",
+    "Shell Scripting": "★★★★☆",
+    "SQL (Programming Language)": "★★★★☆",
+    "Web Development": "★★★★★"
+  },
+  "education": [
+    {
+      "date": "July 2024",
+      "institution": "ITM University, Gwalior",
+      "degree": "B.Tech Computer Science"
+    }
+  ],
+  "courses": [
+    {
+      "date": "September 2023 – October 2023",
+      "title": "JavaScript Algorithms and Data Structures",
+      "provider": "freeCodeCamp"
+    },
+    {
+      "date": "October 2023 – November 2023",
+      "title": "Front End Development Libraries",
+      "provider": "freeCodeCamp"
+    },
+    {
+      "date": "September 2023 – October 2023",
+      "title": "Responsive Web Design",
+      "provider": "freeCodeCamp"
+    },
+    {
+      "date": "April 2023 – May 2023",
+      "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "provider": "Amazon Web Services (AWS)"
+    }
+  ]
+}
