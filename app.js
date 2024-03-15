@@ -10,6 +10,10 @@ app.get('/', (req, res) => {
     res.send('hello there');
 });
 
+app.get('/test', (req,res) => {
+    res.send('<h1>Testing Page</h1>');
+});
+
 app.get('/resume', (req, res) => {
     res.json(resumeData);
 });
