@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/test', (req,res) => {
-    res.send('<h1>Testing Page</h1>');
+    res.send('<h1>Testing Page New</h1>');
 });
 
 app.get('/resume', (req, res) => {
